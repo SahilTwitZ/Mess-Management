@@ -21,18 +21,20 @@ This project is a web-based application designed to manage a mess system efficie
 
 ## Setup
 1. Clone the repository: `git clone https://github.com/SahilTwitZ/Mess-Management`
-2. Install dependencies: `cd Mess-Management` `npm install`
-3. Set up environment variables:
+2. Install dependencies: `cd Mess-Management`
+3. `npm install`
+4. Set up environment variables:
   i. Create a `.env` file in the root directory.
   ii. Add the necessary environment variables, such as:
      - `MONGODB_URI`: MongoDB URI for database connection
      - `MAIL`: Email address for sending verification emails
      - `PASS`: Password or API key for email service
-4. Start the server: Use the following command to start the server: `npm start`
+5. Start the server: Use the following command to start the server: `npm start`
 
 ## Access the Application
 To access the application, follow these steps:
 1. Open your web browser.
-2. Navigate to the following URL: http://localhost:3000 If you've configured a different port, replace 3000 with the appropriate port number.
+2. Navigate to the following URL: http://localhost:3000
+(If you've configured a different port, replace 3000 with the appropriate port number.)
 
 This project is licensed under the MIT License.
