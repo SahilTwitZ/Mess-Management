@@ -21,7 +21,7 @@ This project is a web-based application designed to manage a mess system efficie
 
 ## Setup
 1. Clone the repository: `git clone https://github.com/SahilTwitZ/Mess-Management`
-2. Install dependencies: `cd mess-management-system` `npm install`
+2. Install dependencies: `cd Mess-Management` `npm install`
 3. Set up environment variables:
   i. Create a `.env` file in the root directory.
   ii. Add the necessary environment variables, such as:
