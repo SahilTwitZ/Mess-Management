@@ -36,5 +36,3 @@ To access the application, follow these steps:
 1. Open your web browser.
 2. Navigate to the following URL: http://localhost:3000
 (If you've configured a different port, replace 3000 with the appropriate port number.)
-
-This project is licensed under the MIT License.
